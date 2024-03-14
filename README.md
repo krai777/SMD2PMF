@@ -1,6 +1,6 @@
 ## SMD2PMF
 This project will help to calculate Potential Mean Force (PMF) from Steered Molecular dynamics (SMD) simulation trajectories.
-Steered molecular dynamics (SMD) is known for applying external steering forces in the right direction to accelerate the process, othervise due to energy barriers processes are too slow.
+Steered molecular dynamics (SMD) is known for applying external steering forces in the right direction to accelerate the process, othervise due to energy barriers processes are too slow. SMD simulations steers a system by applying a constraint (e.g., a harmonic potential) that moves along a prescribed path in the configuration space.
 This Repository is divided into two parts:
 
 ## 1. Extraction of Force :
