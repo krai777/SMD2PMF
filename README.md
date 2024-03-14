@@ -23,3 +23,5 @@ The script generates an output file named `force.dat` in the same directory, con
 ## Example
 Suppose you have log files named `smd.log`, `smd1.log`, `smd2.log`, and `smd3.log`. Running the script will extract data from each file, concatenate it into `force.dat`, and perform the specified operations on the combined data.
 
+## 2. Calculation of PMF (Potential Mean Force)
+The potential mean force (PMF) is defined as free enrgy profile along the reaction coordinate and is determined through the Boltzmann-weighted averag over all degrees of freedom other than reaction coordinate. PMF not only captures the energetics of the process studied, but also provides an essential ingredient for fruther modeling of the process,  with all other degrees averaged out, the motion along the reaction coordinate is well approximated as a diffusive motion on the effective potential identifed as PMF. 
