@@ -1,5 +1,5 @@
 ######### Bash script for extracting force data from multiple log file #########
-#####author: Kunal Rai #########
+#####Author: Kunal Rai (krai171009@gmail.com)#########
 #####for more detail follow README######
 
 #!/bin/bash
